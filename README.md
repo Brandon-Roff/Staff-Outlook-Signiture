@@ -166,7 +166,7 @@ objSelection.Font.Name = "Calibri"
 
 To change the font type you need to know the correct font type for Microsoft Word click [Here](https://docs.microsoft.com/en-us/typography/fonts/windows_10_font_list) to find the list.
 
-### 🗚 Font Size
+### 🗚 Font Size (Can Vary)
 
 ```VBS
 objSelection.Font.Size = 18
